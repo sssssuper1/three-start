@@ -6,6 +6,9 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, 'dist'),
   },
+  resolve: {
+    extensions: ['.js', '.json', '.ts'],
+  },
   module: {
     rules: [{ test: /\.ts$/, use: [{
       loader: 'ts-loader',

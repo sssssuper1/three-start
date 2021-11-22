@@ -56,10 +56,10 @@
   resolved "https://registry.nlark.com/@types/node/download/@types/node-16.4.9.tgz#04eb3da65d08ea377f5e682bf0d22dc1f5e7f19e"
   integrity sha1-BOs9pl0I6jd/Xmgr8NItwfXn8Z4=
 
-"@types/three@^0.130.1":
-  version "0.130.1"
-  resolved "https://registry.nlark.com/@types/three/download/@types/three-0.130.1.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40types%2Fthree%2Fdownload%2F%40types%2Fthree-0.130.1.tgz#e5c9aadca684ca3da8daf64e8284bd1a9df2fcc8"
-  integrity sha1-5cmq3KaEyj2o2vZOgoS9Gp3y/Mg=
+"@types/three@^0.131.0":
+  version "0.131.0"
+  resolved "https://registry.nlark.com/@types/three/download/@types/three-0.131.0.tgz#98f59887b05f71e665cf2fbdf04e0e4ceb9f89b6"
+  integrity sha1-mPWYh7BfceZlzy+98E4OTOufibY=
 
 "@webassemblyjs/ast@1.11.1":
   version "1.11.1"
